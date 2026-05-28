@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv/
+
+# Environment variables (IMPORTANT: never commit API keys)
+.env
+*.env
+.env.local
+
+# Sensitive data from old project
+dzen_session/
+dzen_error.png
+stats.log
+last_url_tg.txt
+
+# IDE and OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.log

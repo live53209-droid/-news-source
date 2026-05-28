@@ -1,0 +1,8 @@
+# Dependencies for the new Dzen RSS system (separate from the old Telegram bot)
+
+openai>=1.0.0          # For calling SuperGrok (OpenAI-compatible)
+playwright>=1.40       # For scraping (reuse your existing hybrid image logic)
+requests>=2.31.0       # For direct image downloads
+
+# Note: We deliberately avoid heavy RSS libraries in MVP.
+# RSS will be generated with simple string/XML templates.
