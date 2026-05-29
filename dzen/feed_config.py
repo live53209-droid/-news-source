@@ -10,7 +10,7 @@ CHANNEL_LINK = "https://dzen.ru/dfd"
 CHANNEL_DESCRIPTION = "Актуальные обзоры, новости и разборы из мира кроссовок, уличной моды и спортивной обуви."
 
 # === Настройки изображений для GitHub Pages ===
-BASE_IMAGE_URL = "https://live53209-droid.github.io/-news-source/"
+BASE_IMAGE_URL = "https://sneakernewsdfd.ru/"
 
 # === Дополнительно ===
 LANGUAGE = "ru"
